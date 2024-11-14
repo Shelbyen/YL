@@ -10,3 +10,19 @@ You must receive some image as in demo branch
 
 Diff:
     ...(hat branch) with nice buttons on his jacket (buttons branch)
+
+
+comment on commit 'init':
+                       _______==
+                   ---_____====
+             ===
+        == = = ==
+           =  =  =
+          = = =   =
+      == ===== ==
+         =  =     =  =
+         =  =     =  =
+         == =   = ==
+              = = =
+              = = =
+           === ===
